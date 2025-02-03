@@ -1,0 +1,19 @@
+{
+  "name": "UniqueNFT",
+  "description": "Description of unique NFT",
+  "image": "https://salmon-payable-tahr-551.mypinata.cloud/files/bafkreiefllwpr2ao6ozq2fz2nw67itpebqb2y4wubowwciz7cc272bxb7m?X-Algorithm=PINATA1&X-Date=1736695131&X-Expires=30&X-Method=GET&X-Signature=2d140a5cf38c656a05b1b32f1bb61b33f8df9a8b31fc2dd08798cbf9eea0d611",
+  "attributes": [
+    {
+      "trait_type": "Attribute 1",
+      "value": "length"
+    },
+    {
+      "trait_type": "Attribute 2",
+      "value": "width"
+    },
+    {
+      "trait_type": "Attribute 3",
+      "value": "height"
+    }
+  ]
+}
